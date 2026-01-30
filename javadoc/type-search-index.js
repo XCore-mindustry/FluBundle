@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ospx.flubundle","l":"Bundle"},{"p":"com.ospx.flubundle","l":"DefaultValueFactory"},{"p":"com.ospx.flubundle","l":"NoopDefaultValueFactory"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.ospx.flubundle","l":"Bundle"},{"p":"com.ospx.flubundle","l":"DefaultValueFactory","k":"10"},{"p":"com.ospx.flubundle","l":"NoopDefaultValueFactory"}];updateSearchResults();

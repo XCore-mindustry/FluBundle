@@ -1,3 +1,5 @@
+> **Archived.** This project now lives in the XCore monorepo, in [`libs/flubundle`](https://github.com/XCore-mindustry/xcore/tree/main/libs/flubundle). Releases continue there with the same package coordinates, tagged `flubundle/vX.Y.Z`. Report issues and send pull requests to the monorepo.
+
 # FluBundle
 [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://osp54.github.io/FluBundle/javadoc/)
 ## Installation
